@@ -27,3 +27,17 @@
  * Orientation: 
  [Watch](https://drive.google.com/file/d/1I-14oC_vExr-bomGao71LhHmy0zKG01C/view?usp=drive_link)
 </details>
+
+<details>
+ <summary>Interview</summary>
+
+ * Generative AI interview:
+ [Watch](https://drive.google.com/file/d/1r6CnscyB9V6Xk5socP55y1CpIPbS8IGQ/view?usp=sharing)
+ </details>
+
+ <details>
+ <summary>Green Screen</summary>
+
+ * Green Screen Video:
+ [Watch](https://drive.google.com/file/d/123Y0SjvXlN1UcRpOupdUvhm7EbYqgMoE/view?usp=sharing)
+ </details>
