@@ -2,6 +2,26 @@
 ## A place to see all of our teams' productions.
 
  <details>
+   <summary>Team Members</summary>
+
+   * Vanessa-Editor/Team Leader
+     
+
+
+   * Quinn-Lights Director/Writer
+    
+
+   * Mathilda-Camera Operator/Teleprompter Operator
+ 
+
+   * Trace-Editor/Equipment Manager
+ 
+
+   * Preston-Lead Camera Operator
+     
+</details>
+
+ <details>
    <summary>Team Intro/Outro Sequence</summary>
 
    * Vanessa's Submission
