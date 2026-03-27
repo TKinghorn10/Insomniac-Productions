@@ -68,3 +68,11 @@
  * Green Screen Video:
  [Watch](https://drive.google.com/file/d/123Y0SjvXlN1UcRpOupdUvhm7EbYqgMoE/view?usp=sharing)
  </details>
+
+ <details>
+ <summary>Guide to Survival</summary>
+
+ * Guide to Survival:
+ [Watch](https://drive.google.com/file/d/1kXndiZi5h0pNNYQChRuI3KbfLt0PudN0/view?usp=sharing)
+ </details>
+
